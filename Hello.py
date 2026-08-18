@@ -1,3 +1,3 @@
-print("Hello Git archivo 1")
+print("Nuevo Hello GitHub archivo 1")
 
 print("Cambio en el primer archivo")
